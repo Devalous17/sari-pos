@@ -136,15 +136,6 @@ Need help? Check:
 2. GitHub Issues - Report problems
 3. Vercel Docs - Hosting questions
 
-## 🎯 Roadmap
-
-- [ ] Receipt printing
-- [ ] Multiple payment methods
-- [ ] Customer accounts
-- [ ] Supplier management
-- [ ] Expense tracking
-- [ ] Cloud sync option
-- [ ] Multi-store support
 
 ## 🙏 Acknowledgments
 
