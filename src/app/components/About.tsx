@@ -78,11 +78,11 @@ export function About() {
               <div className="text-sm space-y-2">
                 <div className="bg-white/60 p-3 rounded-lg">
                   <div className="text-xs text-gray-600 mb-1">Account Name</div>
-                  <div className="font-medium text-gray-800">Store Owner Name</div>
+                  <div className="font-medium text-gray-800">Nathaniel Victoria</div>
                 </div>
                 <div className="bg-white/60 p-3 rounded-lg">
                   <div className="text-xs text-gray-600 mb-1">GCash Number</div>
-                  <div className="font-medium text-gray-800">09XX XXX XXXX</div>
+                  <div className="font-medium text-gray-800">0920 108 0083</div>
                 </div>
               </div>
 
@@ -159,8 +159,8 @@ export function About() {
           <div className="text-sm text-gray-600 space-y-2">
             <p>For questions or support:</p>
             <ul className="space-y-1 ml-4">
-              <li>📧 Email: support@sarisaripos.ph</li>
-              <li>📱 SMS: 0917 XXX XXXX</li>
+              <li>📧 Email: nathanrave16@gmail.com</li>
+              <li>📱 SMS: 0920 108 0083</li>
               <li>🕐 Business Hours: Mon-Sat, 8AM-6PM</li>
             </ul>
           </div>
