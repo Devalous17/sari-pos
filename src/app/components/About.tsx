@@ -65,15 +65,11 @@ export function About() {
                 <h4 className="font-semibold text-blue-900">GCash Payment</h4>
               </div>
 
-              <div className="bg-white p-4 rounded-xl mb-4 flex items-center justify-center">
-                <div className="w-48 h-48 bg-gray-100 rounded-lg flex items-center justify-center border-2 border-dashed border-gray-300">
-                  <div className="text-center">
-                    <QrCode className="w-16 h-16 mx-auto mb-2 text-gray-400" />
-                    <p className="text-xs text-gray-500">Your GCash QR Code</p>
-                    <p className="text-xs text-gray-400 mt-1">(Upload your QR code here)</p>
-                  </div>
-                </div>
-              </div>
+             <div className="bg-white p-4 rounded-xl mb-4 flex items-center justify-center">
+  <div className="w-48 h-48 bg-gray-50 rounded-lg flex items-center justify-center border border-gray-200 overflow-hidden shadow-inner">
+    <img src="https://i.imgur.com/gUNfkGA.jpeg" alt="GCash QR Code" className="w-full h-full object-contain p-2" />
+  </div>
+</div>
 
               <div className="text-sm space-y-2">
                 <div className="bg-white/60 p-3 rounded-lg">
