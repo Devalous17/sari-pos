@@ -183,7 +183,7 @@ export function Utang({ onAddUtang }: UtangProps) {
                 </div>
 
                 <div className="bg-orange-50 border border-orange-200 rounded-xl p-3 mb-3">
-                  <div className="text-xs text-gray-600 mb-1">Outstanding Balance</div>
+                  <div className="text-xs text-gray-600 mb-1">Utang Remaining</div>
                   <div className="text-xl font-bold text-orange-600">₱{customer.totalUtang.toFixed(2)}</div>
                 </div>
 
