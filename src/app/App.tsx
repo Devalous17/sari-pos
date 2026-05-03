@@ -90,7 +90,7 @@ export default function App() {
       { id: '53', name: 'San Mig Light (Can)', price: 70, stock: 21, cost: 62, category: 'Drinks',image: 'https://store.iloilosupermart.com/wp-content/uploads/2020/12/878798.jpg',  maxStock: 24 },
       { id: '54', name: 'Marlboro Light', price: 10, stock: 50, cost: 7.50, category: 'Other',image: 'https://www.srssulit.com/wp-content/uploads/products/9338-3.png',  maxStock: 50 },
       { id: '55', name: 'Marlboro Blue', price: 10, stock: 50, cost: 7.50, category: 'Other',image: 'https://www.srssulit.com/wp-content/uploads/products/28700-3.png',  maxStock: 50 },
-      { id: '56', name: 'Camel', price: 10, stock: 50, cost: 7.50, category: 'Other',image: 'https://www.magicstarsupermarket.com/cdn/shop/products/C-LOCAL-22_CIGARETTE_LOCAL_WINSTON_LIGHT_HARD_PACK_1024x1024_c3c955da-68df-431b-a69f-514529530cb0_580x.jpg?v=1592192822',  maxStock: 50 },
+      { id: '56', name: 'Camel', price: 10, stock: 50, cost: 7.50, category: 'Other',image: 'https://ph-test-11.slatic.net/p/117ca28b9de5ff32417b93822715c976.png',  maxStock: 50 },
       { id: '57', name: 'Mighty', price: 10, stock: 50, cost: 7.50, category: 'Other',image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlO9z7ta8Ahg2oEe6vc74mo7F-3m29yMkXEw&s',  maxStock: 50 },
       { id: '58', name: 'Winston Light', price: 10, stock: 50, cost: 7.50, category: 'Other',image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26CweOiVb52wi8g0Wcf16zgk_hZrmJCPQSA&s',  maxStock: 50 },
       { id: '59', name: 'Gin 2x2', price: 150, stock: 10, cost: 120, category: 'Drinks',image: 'https://images.freshop.ncrcloud.com/1564405684702538189/ebd347d598d912f1ac7d293427734ac8_large.png',  maxStock: 10 },
